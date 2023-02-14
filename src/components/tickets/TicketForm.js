@@ -36,7 +36,7 @@ export const TicketForm = () => {
             userId: honeyUserObject.id,
             description: ticket.description,
             emergency: ticket.emergency,
-            dataCompleted: ""
+            dateCompleted: ""
         }
 
         // TODO: Perform the fetch() to POST the object to the API

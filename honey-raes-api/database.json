@@ -123,7 +123,7 @@
       "userId": 1,
       "description": "My computer won't boot.",
       "emergency": true,
-      "dataCompleted": "",
+      "dateCompleted": "",
       "id": 6
     }
   ],
