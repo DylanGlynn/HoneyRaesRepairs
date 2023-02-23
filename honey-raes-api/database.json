@@ -41,6 +41,12 @@
       "fullName": "Jeremy Bakker",
       "isStaff": true,
       "id": 7
+    },
+    {
+      "email": "daniel@candyman.org",
+      "fullName": "Daniel Robitaille",
+      "isStaff": true,
+      "id": 8
     }
   ],
   "customers": [
