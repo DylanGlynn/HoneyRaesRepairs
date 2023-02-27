@@ -126,10 +126,10 @@
       "dateCompleted": "Fri Apr 29 2022 21:24:29 GMT-0500 (Central Daylight Time)"
     },
     {
-      "userId": 1,
+      "userId": 6,
       "description": "My computer won't boot.",
       "emergency": true,
-      "dateCompleted": "",
+      "dateCompleted": "2023-02-27T20:23:31.370Z",
       "id": 6
     }
   ],
@@ -148,6 +148,11 @@
       "id": 3,
       "employeeId": 1,
       "serviceTicketId": 4
+    },
+    {
+      "employeeId": 1,
+      "serviceTicketId": 6,
+      "id": 4
     }
   ]
 }
