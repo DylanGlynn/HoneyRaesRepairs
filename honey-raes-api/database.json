@@ -58,7 +58,7 @@
     },
     {
       "id": 3,
-      "address": "7346 Ritchie Road",
+      "address": "7348 Ritchie Road",
       "phoneNumber": "(507) 720-1157",
       "userId": 3
     }
@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "PC Repair",
-      "rate": 72.47,
+      "specialty": "PC, iPhone, and Mac repair",
+      "rate": 85,
       "userId": 4
     },
     {
@@ -81,7 +81,8 @@
       "specialty": "Printer Repair",
       "rate": 29.45,
       "userId": 6
-    },{
+    },
+    {
       "id": 4,
       "specialty": "Networking",
       "rate": 60.75,
@@ -90,11 +91,11 @@
   ],
   "serviceTickets": [
     {
-      "id": 1,
       "userId": 3,
       "description": "Saepe ex sapiente deserunt et voluptas fugiat vero quasi. Ipsam est non ipsa. Occaecati rerum ipsa consequuntur. Ratione commodi unde sint non rerum. Sit quia et aut sunt.",
       "emergency": false,
-      "dateCompleted": "Fri Apr 29 2022 14:02:20 GMT-0500 (Central Daylight Time)"
+      "dateCompleted": "",
+      "id": 1
     },
     {
       "id": 2,
